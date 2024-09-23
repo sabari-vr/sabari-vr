@@ -111,8 +111,8 @@ Here are the professional languages and tools I'm proficient with:
        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
        <br>VsCode
     </td> 
-           
        </tr>
+    
   
   </table>
  <br><br>
