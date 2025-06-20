@@ -7,7 +7,7 @@
 
 ## Connect with me
 
-- 💼 LinkedIn: [click here](https://www.linkedin.com/in/sabari-v-r-713043219/)
+- 💼 LinkedIn: [click here](https://www.linkedin.com/in/sabari-vr/)
 - 🌐 Website / Portfolio: [click here](https://sabari-vr.github.io/my-portfolio/)
 
 ## Languages and Tools
