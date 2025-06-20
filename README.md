@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabari V R</h1>
 <h3 align="center">MERN Stack Developer || React Native Developer</h3>
 
-  - 💬 Ask me about ** React, JavaScript, Node, Express, TypeScript, MongoDb, HTML/CSS **
+  - 💬 Ask me about ** React, JavaScript, Node, Express, Next, Nest, TypeScript, MongoDb, HTML/CSS **
 
   - 📫 How to reach me ** mailtosabarivr@gmail.com**
 
